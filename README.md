@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/nibbula/yew/src/branch/master/opsys
+
 This is a non-groveling interface to operating system functionality.
 **I recommend you don't use it.**
 
